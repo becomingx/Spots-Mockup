@@ -76,7 +76,4 @@ https://patriciatirado9.wistia.com/medias/rsoyidujj5
 (https://patriciatirado9.wistia.com/medias/rsoyidujj5)
 >>>>>>> b1203addba12ba7908377740d83d3fbc2eed0cf5
 ## Deployment
-
-This webpage is deployed to GitHub Pages
-https://becomingx.github.io/se_project_spots/
-
+TBD
