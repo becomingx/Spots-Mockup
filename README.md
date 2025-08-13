@@ -1,4 +1,7 @@
 # Project 3: Spots
+Author: Patricia Tirado
+Follow me on LinkedIn: 
+www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=patriciatirado29a
 
 This is an image sharing site.
 
